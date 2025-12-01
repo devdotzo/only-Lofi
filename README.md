@@ -3,6 +3,7 @@
 > A gentle atmosphere for focus, a mood that grows with you, and a small dream-world that lives in your browser.
 
 ## The Story Behind onlyLoFi
+<img width="1920" height="1440" alt="949shots_so" src="https://github.com/user-attachments/assets/b1148c82-cfeb-4a9f-b20f-c4e8e93fbb0a" />
 
 Have you ever noticed how certain sounds can quietly change the way you feel?
 
@@ -51,6 +52,12 @@ onlyLoFi is built with modern web technologies to ensure a smooth, responsive ex
 - **GSAP & Framer Motion** - Smooth, calm, and dream-like transitions
 - **React Context API** - Efficient state management throughout the app
 - **Lucide React** - Beautiful, consistent icon system
+
+<img width="1920" height="1080" alt="374_1x_shots_so" src="https://github.com/user-attachments/assets/abf14362-28a6-4f25-80e4-fc47f1fa33d6" />
+
+<img width="1920" height="1080" alt="426_1x_shots_so" src="https://github.com/user-attachments/assets/267720ff-b7bb-45fb-95aa-864b75e80a08" />
+
+<img width="1920" height="1080" alt="696_1x_shots_so" src="https://github.com/user-attachments/assets/a9dda057-3686-4103-84e5-7211f7d54dd7" />
 
 ## 🚀 Getting Started
 
