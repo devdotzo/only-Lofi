@@ -188,4 +188,4 @@ This is onlyLoFi. Your peaceful digital companion.
 
 ---
 
-## New: Features file updated again
+## Features file updated
