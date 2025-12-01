@@ -188,4 +188,4 @@ This is onlyLoFi. Your peaceful digital companion.
 
 ---
 
-## New: See features.md file
+## New: Features file updated again
