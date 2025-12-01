@@ -194,5 +194,3 @@ This is onlyLoFi. Your peaceful digital companion.
 *Built with care for everyone who believes that productivity should feel natural, not forced.*
 
 ---
-
-## Features file updated
